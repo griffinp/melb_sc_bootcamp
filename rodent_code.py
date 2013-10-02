@@ -27,3 +27,4 @@ print rodents
 for key in rodents:
     print rodents[key].tag_id, rodents[key].weight
     print 'What a nice rodent'
+    print 'It looks like a water rat'
